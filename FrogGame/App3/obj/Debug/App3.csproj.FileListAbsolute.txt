@@ -1,0 +1,18 @@
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\App3\App3\bin\Debug\App3.exe
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\App3\App3\bin\Debug\App3.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\App3\App3\obj\Debug\App3.Form1.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\App3\App3\obj\Debug\App3.Properties.Resources.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\App3\App3\obj\Debug\App3.csproj.GenerateResource.Cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\App3\App3\obj\Debug\App3.csproj.CoreCompileInputs.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\App3\App3\obj\Debug\App3.exe
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\App3\App3\obj\Debug\App3.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\App4\App3\bin\Debug\App3.exe
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\App4\App3\bin\Debug\App3.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\App4\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\App4\App3\obj\Debug\App3.Form1.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\App4\App3\obj\Debug\App3.Properties.Resources.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\App4\App3\obj\Debug\App3.csproj.GenerateResource.Cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\App4\App3\obj\Debug\App3.csproj.CoreCompileInputs.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\App4\App3\obj\Debug\App3.exe
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\App4\App3\obj\Debug\App3.pdb
