@@ -16,8 +16,8 @@ Click the frog as fast as possible before time runs out.
 - C#
 - Windows Forms / WPF (ό,τι έχεις χρησιμοποιήσει)
 
-## 📸 Screenshots
-(Add screenshots here)
+## 📸 Screenshot
+<img width="690" height="495" alt="FrogGameScreenshot" src="https://github.com/user-attachments/assets/de3d22ff-77c8-4544-9d8b-fd4e83dd7b1b" />
 
 ## 🏆 High Score System
 Stores best scores separately for Easy and Hard mode.
