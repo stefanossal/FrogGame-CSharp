@@ -14,7 +14,7 @@ Click the frog as fast as possible before time runs out.
 
 ## 🛠️ Technologies
 - C#
-- Windows Forms / WPF (ό,τι έχεις χρησιμοποιήσει)
+- Windows Forms
 
 ## 📸 Screenshot
 <img width="690" height="495" alt="FrogGameScreenshot" src="https://github.com/user-attachments/assets/de3d22ff-77c8-4544-9d8b-fd4e83dd7b1b" />
