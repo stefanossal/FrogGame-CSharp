@@ -1,4 +1,4 @@
-# FrogGame-CSharp 🐸
+# FrogGame - C# 🐸
 
 A simple reaction-based game where the player must click a frog that randomly changes position to score points.
 
